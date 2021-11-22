@@ -50,6 +50,7 @@ if (player == paper) and (computer == scissors); computer wins
 
 if (player == scissors) and (computer == scissors); tie
 
+
 ## Defining our system
 
 64 Bit Windows / Open Source Linux & its derivatives.
