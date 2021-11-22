@@ -54,4 +54,4 @@ if (player == scissors) and (computer == scissors); tie
 ## Defining our system
 
 64 Bit Windows / Open Source Linux & its derivatives.
-Open Source Programming Tools like G++/GCC, C++ IDE (Visual Studio Code or any other).
+Open Source Programming Tools like G++/GCC, C IDE (Visual Studio Code or any other).
