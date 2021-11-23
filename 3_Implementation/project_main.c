@@ -10,7 +10,7 @@ int main()
 {
     char computer;
     char player;
-    char playmore;
+ 
    printf("\t\t\t\t") ;
     for(int i = 0; i < 50; i++){
         printf( "."); 
@@ -25,7 +25,6 @@ int main()
     
     // Stores the random number
     
-    do{
         int n=0;
         char you;
         char result;
@@ -86,15 +85,8 @@ int main()
         }
         
         printf("\t\t\t\t\n");
-        printf("Do you want to Play Again?\n");
-        printf("\n\t\t\t\t\n");
-        printf("Note: Press 'n' to exit! Press Anything to continue: \n") ;
-        scanf("%c",&playmore);
-        printf("\t\t\t\t\n");
         for(int i = 0; i < 50; i++) 
         {
         printf(".");
         }
-    }while(playmore != 'n');
-        return 0;
 }
