@@ -89,7 +89,7 @@ int main()
          printf("\t\t\t\t\n");
         printf("Do you want to Play Again?\n");
         printf("\n\t\t\t\t\n");
-        printf("Note: Press 'n' to exit! Press Anything to continue: \n") ;
+        printf("Note: Press 'enter' and 'n' to exit! n") ;
         scanf("%c",&playmore);
         printf("\t\t\t\t\n");
         for(int i = 0; i < 50; i++) 
