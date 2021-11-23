@@ -75,3 +75,14 @@ Our game is portable i.e., it can be used in both linux and windows
 ## THREATS
 There are so many improvements with the latest technology but our game is fundamental.
 
+## HIGH LEVEL REQUIREMENTS (Software)
+1.Windows OS
+2.Github
+3.Visual Studio Code
+4.Windows Subsystem for Linux(WSL)
+5.gcc Compiler
+
+## LOW LEVEL REQUIREMENTS
+1.User should put the valid requirements.
+2.User should enter correct spellings.
+
