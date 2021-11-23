@@ -90,4 +90,21 @@ There are so many improvements with the latest technology but our game is fundam
 ## LOW LEVEL REQUIREMENTS
 1.User should put the valid requirements.
 
+## 4W's and 1'H
+Who:
+Any one can play this game. But it is very intersting for young kids.
+
+When:
+This game can be played whenever you are feeling bored.
+
+Where:
+Our Game has to be played in PC/Laptop.
+
+What:
+playing Rock paper scissor.
+
+How:
+Requires one player to play against computer by giving required input.
+
+
 
