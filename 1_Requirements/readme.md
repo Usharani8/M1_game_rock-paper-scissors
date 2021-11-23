@@ -84,5 +84,5 @@ There are so many improvements with the latest technology but our game is fundam
 
 ## LOW LEVEL REQUIREMENTS
 1.User should put the valid requirements.
-2.User should enter correct spellings.
+
 
