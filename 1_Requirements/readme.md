@@ -50,8 +50,28 @@ if (player == paper) and (computer == scissors); computer wins
 
 if (player == scissors) and (computer == scissors); tie
 
+## Cost and Features and Timeline
+In ancient times this game is played in person. In our digital era this game has an app  and only some of the apps are paid. 
 
 ## Defining our system
 
 64 Bit Windows / Open Source Linux & its derivatives.
 Open Source Programming Tools like G++/GCC, C IDE (Visual Studio Code or any other).
+
+
+## SWOT Analysis
+
+## STRENGTHS
+Devolops knowledge
+Improves Math Skills
+Improves concentration
+## WEAKNESS
+Works only with keyboard
+
+## Opportunities
+We can increase the number of things used in the game like lizard, snake..etc if updated.
+Our game is portable i.e., it can be used in both linux and windows
+
+## THREATS
+There are so many improvements with the latest technology but our game is fundamental.
+
