@@ -46,3 +46,7 @@ if (player == scissors) and (computer == scissors); tie
 [![Contribution Check - Git Inspector](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/gitinspector.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b42bf6bb81f443d78d75db4234548dd6)](https://www.codacy.com/gh/Usharani8/M1_game_rock-paper-scissors/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Usharani8/M1_game_rock-paper-scissors&amp;utm_campaign=Badge_Grade)
+
+![code quality score](https://api.codiga.io/project/29975/score/svg)
+
+![Code grade](https://api.codiga.io/project/29975/status/svg)
