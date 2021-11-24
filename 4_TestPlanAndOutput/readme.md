@@ -21,7 +21,7 @@ actual output:player won
       
  4.player =r,computer =z
  
-    expected output: player won
+ expected output: player won
 
 actual output:player won
 
