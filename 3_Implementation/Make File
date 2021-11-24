@@ -10,7 +10,7 @@ src/rock.c
 
 # All test source files
 TEST_SRC = src/rock.c\
-test/test_calculator_operations.c\
+test/test_paper.c\
 unity/unity.c\
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
