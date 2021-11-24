@@ -30,27 +30,7 @@ If one player picks scissors and the other paper, the player who showed scissors
 If a player shows paper while the other shows rock, the player who picked paper succeeds. Paper covers rock.
 Once game is taught, ask players to use in many different games and situations to solve minor disputes, such as is the ball in or out or who arrived first in line.
 
-## Possible cases -
-
-if (player == rock) and (computer == paper); computer wins
-
-if (player == paper) and (computer == paper); tie
-
-if (player == scissors) and (computer == paper); player wins
-
-if (player == rock) and (computer == rock); tie
-
-if (player == paper) and (computer == rock); player wins
-
-if (player == scissors) and (computer == rock); computer wins
-
-if (player == rock) and (computer == scissors); player wins
-
-if (player == paper) and (computer == scissors); computer wins
-
-if (player == scissors) and (computer == scissors); tie
-
-## Cost and Features and Timeline
+## Cost, Features and Timeline
 In ancient times this game is played in person. In our digital era this game has an app  and only some of the apps are paid. 
 
 ## Defining our system
