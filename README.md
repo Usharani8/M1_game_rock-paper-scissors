@@ -15,9 +15,6 @@ rock paper scissors game
 
 6 ImagesandVideos ------All the images and program execution video
 
-7_Other  ------  other information
-
-
 ## Possible cases -
 if (player == rock) and (computer == paper); computer wins
 
