@@ -39,3 +39,5 @@ if (player == scissors) and (computer == scissors); tie
 
 2.Geeksforgeeks
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/c-cpp.yml)
+
