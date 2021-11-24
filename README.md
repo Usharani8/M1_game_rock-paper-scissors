@@ -1,13 +1,22 @@
-
-[![Code Quality - Static Code - Cppcheck](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/c-cpp.yml)
+Unit testing-
 
 [![C/C++ CI UnitTesting](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/unity.yml/badge.svg)](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/unity.yml)
 
+Git inspector-
+
 [![Contribution Check - Git Inspector](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/gitinspector.yml)
+
+Codacya Badge-
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/b42bf6bb81f443d78d75db4234548dd6)](https://www.codacy.com/gh/Usharani8/M1_game_rock-paper-scissors/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Usharani8/M1_game_rock-paper-scissors&amp;utm_campaign=Badge_Grade)
 
+Code Quality-
+
 ![code quality score](https://api.codiga.io/project/29975/score/svg)
+
+[![Code Quality - Static Code - Cppcheck](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/Usharani8/M1_game_rock-paper-scissors/actions/workflows/c-cpp.yml)
+
+Code grade -
 
 ![Code grade](https://api.codiga.io/project/29975/status/svg)
 
