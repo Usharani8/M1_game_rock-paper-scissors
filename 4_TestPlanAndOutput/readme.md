@@ -1,5 +1,6 @@
 ## test plan
 description:
+
 1.player=computer
 
 expected output: Draw
