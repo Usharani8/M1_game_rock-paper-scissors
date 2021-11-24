@@ -21,44 +21,23 @@ case3: (you == 'p' && computer == 'r')
   return 1;
 }
   
-
-// If user's choice is Rock and
-
-// computer's choice is Scissor
-
-if (you == 'r' && computer == 'z')
-
+// If user's choice is Rock and computer's choice is Scissor
+case4:(you == 'r' && computer == 'z')
 {
-
         return 1;
-        
 }
-
-// If user's choice is Scissor and
-
-// computer's choice is Rock
-
-if (you == 'z' && computer == 'r')
-
- {
  
-  return -1;   
-  
+//If user's choice is Scissor and computer's choice is Rock
+case5:(you == 'z' && computer == 'r')
+{
+ return -1;   
  }   
  
-
-// If user's choice is Paper and
-
-// computer's choice is Scissor
-
-if (you == 'p' && computer == 'z')
-
+// If user's choice is Paper and computer's choice is Scissor
+case6:(you == 'p' && computer == 'z')
 {    
-
     return -1;
-    
-}
-
+ }
 
 // If user's choice is Scissor and computer's choice is Paper
 case7:(you == 'z' && computer == 'p')
