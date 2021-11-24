@@ -1,6 +1,23 @@
 # M1_game_rock-paper-scissors
 rock paper scissors game
 
+## Folder Structure
+                    
+1_Requirements	-----   Documents detailing requirements
+
+2 Architecture   ------	Structural and Behavioural UML
+
+3_Implementation  ----- All the code is written here
+
+4 TestPlanAndOutput ------  	Documents with test plans and outputs
+
+5_Report	  ------     Generated Report
+
+6 ImagesandVideos ------All the images and program execution video
+
+7_Other  ------  other information
+
+
 ## Possible cases -
 if (player == rock) and (computer == paper); computer wins
 
